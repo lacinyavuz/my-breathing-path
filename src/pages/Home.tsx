@@ -23,7 +23,7 @@ export default function Home() {
             <div className="lg:col-span-7">
               <Reveal>
                 <span className="eyebrow">
-                  Transformational Breath® · Teddington · Online
+                  Transformational Breath® · London · Online
                 </span>
               </Reveal>
               <Reveal delay={0.1}>
