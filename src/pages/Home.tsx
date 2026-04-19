@@ -115,17 +115,6 @@ export default function Home() {
                   </motion.div>
                 </div>
               </Reveal>
-
-              <Reveal delay={0.5}>
-                <div className="absolute -bottom-8 -left-6 hidden w-48 rounded-2xl border border-ink/10 bg-cream-50 p-5 shadow-xl shadow-ink/5 sm:block">
-                  <p className="font-display text-2xl leading-none text-ink">
-                    90<span className="text-sm text-ink-muted"> min</span>
-                  </p>
-                  <p className="mt-1 text-xs uppercase tracking-[0.18em] text-ink-soft">
-                    Full 1:1 session
-                  </p>
-                </div>
-              </Reveal>
             </div>
           </div>
         </div>
