@@ -5,7 +5,7 @@ export const images = {
   hero: unsplash("1518241353330-0f7941c2d9b5", 2000),
   heroPortrait: unsplash("1544367567-0f2fcb009e0b", 1400),
   calm: unsplash("1545389336-cf090694435e", 1600),
-  hands: unsplash("1591343395082-e120087004b4", 1400),
+  hands: unsplash("1506126613408-eca07ce68773", 1400),
   breathing: unsplash("1506126613408-eca07ce68773", 1600),
   nature: unsplash("1470071459604-3b5ec3a7fe05", 1800),
   workshop: unsplash("1588286840104-8957b019727f", 1600),
