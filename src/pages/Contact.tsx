@@ -123,10 +123,10 @@ export default function Contact() {
                     </div>
                     <div>
                       <p className="text-xs uppercase tracking-[0.18em] text-ink-soft">
-                        Therapy room
+                        Location
                       </p>
                       <p className="font-display text-xl text-ink">
-                        Teddington, {site.location.region}
+                        London
                       </p>
                       <p className="text-sm text-ink-muted">
                         Exact address shared on booking.
