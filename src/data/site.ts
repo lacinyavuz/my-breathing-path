@@ -4,7 +4,7 @@ export const site = {
   description:
     "Gentle, guided Transformational Breath® sessions in Teddington, Richmond Upon Thames and online. Release stress, reconnect with your body and build a healthier breathing pattern.",
   url: "https://mybreathingpath.co.uk",
-  email: "hello@mybreathingpath.co.uk",
+  email: "info@mybreathingpath.co.uk",
   phone: "+44 20 0000 0000",
   whatsapp: "+44 7000 000000",
   location: {
