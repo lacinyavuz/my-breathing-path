@@ -6,7 +6,7 @@ export const site = {
   url: "https://mybreathingpath.co.uk",
   email: "info@mybreathingpath.co.uk",
   phone: "+44 20 0000 0000",
-  whatsapp: "+44 7000 000000",
+  whatsapp: "+44 7733 164611",
   location: {
     area: "Teddington",
     region: "Richmond Upon Thames",
