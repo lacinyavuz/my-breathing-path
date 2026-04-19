@@ -269,10 +269,6 @@ export default function Home() {
                         <dt className="text-ink-soft">Format</dt>
                         <dd className="text-ink">{s.format}</dd>
                       </div>
-                      <div className="flex justify-between">
-                        <dt className="text-ink-soft">Investment</dt>
-                        <dd className="text-ink">{s.price}</dd>
-                      </div>
                     </dl>
 
                     <Link

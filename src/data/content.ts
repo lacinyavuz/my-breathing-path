@@ -5,7 +5,7 @@ export const services = [
     eyebrow: "Personal",
     duration: "90 minutes",
     price: "£120",
-    format: "In person, Teddington",
+    format: "In Person London or at your place",
     tagline: "A private, deeply-supported session tailored to you.",
     description:
       "A dedicated one-to-one session in a warm therapy room in Teddington. Ideal if you are new to breathwork or would like deeper, personalised guidance. We start with a gentle conversation about what you are carrying, move into connected breathing with hands-on body mapping, and finish with quiet integration.",

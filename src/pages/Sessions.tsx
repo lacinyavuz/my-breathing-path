@@ -92,14 +92,6 @@ export default function Sessions() {
                         {s.format}
                       </p>
                     </div>
-                    <div>
-                      <p className="text-xs uppercase tracking-[0.18em] text-ink-soft">
-                        Investment
-                      </p>
-                      <p className="mt-1 font-display text-xl text-ink">
-                        {s.price}
-                      </p>
-                    </div>
                   </div>
 
                   <div className="mt-8 grid gap-8 sm:grid-cols-2">
