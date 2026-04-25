@@ -97,11 +97,16 @@ export default function Home() {
                     <div className="flex items-center gap-4">
                       <div className="relative flex h-14 w-14 items-center justify-center">
                         <motion.div
-                          className="absolute inset-0 rounded-full bg-terracotta-400/30"
-                          animate={{ scale: [1, 1.4, 1], opacity: [0.6, 0, 0.6] }}
-                          transition={{ duration: 6, repeat: Infinity }}
+                          className="absolute inset-0 rounded-full bg-terracotta-400/70"
+                          animate={{ scale: [1, 1.7, 1], opacity: [0.95, 0.1, 0.95] }}
+                          transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
                         />
-                        <div className="h-4 w-4 rounded-full bg-terracotta-400" />
+                        <motion.div
+                          className="absolute inset-0 rounded-full bg-terracotta-300/60"
+                          animate={{ scale: [1, 1.4, 1], opacity: [0.8, 0.2, 0.8] }}
+                          transition={{ duration: 6, repeat: Infinity, ease: "easeInOut", delay: 1.5 }}
+                        />
+                        <div className="h-5 w-5 rounded-full bg-terracotta-500 shadow-[0_0_18px_rgba(198,128,94,0.85)]" />
                       </div>
                       <div>
                         <p className="text-xs uppercase tracking-[0.18em] text-ink-soft">
