@@ -51,32 +51,6 @@ export default function Home() {
                   </Link>
                 </div>
               </Reveal>
-              <Reveal delay={0.4}>
-                <div className="mt-12 flex items-center gap-5 text-sm text-ink-muted">
-                  <div className="flex -space-x-2">
-                    <img
-                      src={images.woman1}
-                      alt=""
-                      className="h-10 w-10 rounded-full border-2 border-cream-100 object-cover"
-                    />
-                    <img
-                      src={images.woman2}
-                      alt=""
-                      className="h-10 w-10 rounded-full border-2 border-cream-100 object-cover"
-                    />
-                    <img
-                      src={images.peacefulFace}
-                      alt=""
-                      className="h-10 w-10 rounded-full border-2 border-cream-100 object-cover"
-                    />
-                  </div>
-                  <p>
-                    Trusted by 400+ clients across London
-                    <br />
-                    and online since 2014.
-                  </p>
-                </div>
-              </Reveal>
             </div>
 
             <div className="relative lg:col-span-5">
