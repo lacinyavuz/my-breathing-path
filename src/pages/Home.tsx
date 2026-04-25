@@ -107,9 +107,6 @@ export default function Home() {
                         <p className="text-xs uppercase tracking-[0.18em] text-ink-soft">
                           Breathe in · breathe out
                         </p>
-                        <p className="font-display text-lg text-ink">
-                          One session is a reset.
-                        </p>
                       </div>
                     </div>
                   </motion.div>
