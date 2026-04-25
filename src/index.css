@@ -46,7 +46,7 @@
     @apply mx-auto w-full max-w-7xl px-6 sm:px-8 lg:px-12;
   }
   .btn-primary {
-    @apply inline-flex items-center justify-center gap-2 rounded-full bg-ink px-7 py-3.5 text-sm font-medium text-cream-50 transition-all duration-300 hover:bg-sage-600 hover:-translate-y-0.5 active:translate-y-0;
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-terracotta-500 px-7 py-3.5 text-sm font-semibold text-cream-50 shadow-md shadow-terracotta-500/30 transition-all duration-300 hover:bg-terracotta-600 hover:shadow-lg hover:shadow-terracotta-500/40 hover:-translate-y-0.5 active:translate-y-0;
   }
   .btn-secondary {
     @apply inline-flex items-center justify-center gap-2 rounded-full border border-ink/25 bg-transparent px-7 py-3.5 text-sm font-medium text-ink transition-all duration-300 hover:border-ink hover:bg-ink hover:text-cream-50;
